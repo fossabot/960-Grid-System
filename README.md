@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2F960-Grid-System.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2F960-Grid-System?ref=badge_shield)
+
 960 Grid System
 ===============
 
@@ -53,3 +55,7 @@ http://www.gnu.org/licenses/gpl.html
 
 MIT license:
 http://www.opensource.org/licenses/mit-license.php
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2F960-Grid-System.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2F960-Grid-System?ref=badge_large)
